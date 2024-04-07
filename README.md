@@ -3,4 +3,4 @@
 Key points for detectron2 would be 
 1. detection,
 2. object detection,
-3. and semantic segmentation
+3. semantic segmentation
